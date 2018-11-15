@@ -1,0 +1,6 @@
+framework module LRZCategoryKit {
+  umbrella header "LRZCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LRZCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of LRZCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1366225686@qq.com/LRZCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1366225686@qq.com": "373272784@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1366225686@qq.com/LRZCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LRZCategoryKit/Classes/**/*"
+}

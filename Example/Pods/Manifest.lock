@@ -1,0 +1,16 @@
+PODS:
+  - LRZCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - LRZCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  LRZCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LRZCategoryKit: 2fb9150db6ba117b7d159550747d79a8aa199fb6
+
+PODFILE CHECKSUM: 649072c4cb2e24ff8968f454387df5ea625acb22
+
+COCOAPODS: 1.5.3

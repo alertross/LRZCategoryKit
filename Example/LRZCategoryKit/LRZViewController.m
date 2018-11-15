@@ -7,7 +7,7 @@
 //
 
 #import "LRZViewController.h"
-
+#import "NSArray+Log.h"
 @interface LRZViewController ()
 
 @end
@@ -18,6 +18,9 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSArray *arr =  @[@"1",@"1",@"1"];
+    NSLog(@"^==%@",[arr descriptionWithLocale:nil]);
 }
 
 - (void)didReceiveMemoryWarning
